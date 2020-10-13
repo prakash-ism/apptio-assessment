@@ -1,0 +1,16 @@
+.TableGrid {
+  width: 90%;
+  /* display: grid; */
+  grid-template-columns: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.TopBorderNone {
+  border: 1px solid black;
+  border-top: none;
+}
+
+.TopBorder {
+  border: 1px solid black;
+}
